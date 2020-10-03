@@ -1,0 +1,1 @@
+project was to make a color sampler program in Java. The Java file is the only thing I could scavenge from the project, It is missing another file to fully run.
