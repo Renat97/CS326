@@ -2,12 +2,13 @@
 // 12/11/18
 
 // importing java libraries
-
+// abstract window toolkit for building a UI
 import java.awt.Color;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.*;
 import java.awt.*;
+// for building the GU
 import javax.swing.*;
 import java.awt.event.*;
 import javax.swing.event.*;
